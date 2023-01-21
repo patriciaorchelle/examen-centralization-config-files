@@ -1,3 +1,4 @@
+
 server:
   port: 9000
 
@@ -16,3 +17,4 @@ management:
   endpoint:
     health:
       show-details: "ALWAYS"
+
